@@ -58,6 +58,11 @@ Contribuições
 
 Contribuições são bem-vindas. Para contribuir, faça o fork do projeto no GitHub e crie uma pull request com suas alterações.
 
+Main: Esta é a branch principal do projeto, que contém o código que está em produção.
+Develop: Esta é a branch de desenvolvimento, que contém o código que está sendo desenvolvido, mas ainda não está pronto para ser lançado.
+Feature branches: Estas são branches temporárias que são criadas para desenvolver novas funcionalidades.
+
+
 Licença
 
 Este projeto é licenciado sob a licença MIT.

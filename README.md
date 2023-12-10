@@ -11,8 +11,8 @@ Instalação
 
 Para instalar o projeto, execute os seguintes comandos:
 
-git clone https://github.com/[seu-usuário]/renomeador-de-arquivos-em-massa.git
-cd renomeador-de-arquivos-em-massa
+git clone https://github.com/CristianoFIlho/MassRename.git 
+cd MassRename
 pip install -r requirements.txt
 Uso
 

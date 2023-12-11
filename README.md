@@ -64,6 +64,23 @@ Contribuições são bem-vindas. Para contribuir, faça o fork do projeto no Git
 * **Develop:** Esta é a branch de desenvolvimento, que contém o código que está sendo desenvolvido, mas ainda não está pronto para ser lançado.
 * **Feature branches:** Estas são branches temporárias que são criadas para desenvolver novas funcionalidades.
 
+# Commits Semânticos
+
+Este projeto usa commits semânticos para padronizar as mensagens de commit. Para fazer um commit semântico, use um dos seguintes prefixos no início da mensagem de commit:
+
+
+- ✨ `:sparkles:`: para adicionar uma nova funcionalidade ao código.
+- 🐛 `:bug:`: para corrigir um bug no código.
+- 📚 `:books:`: para adicionar ou atualizar a documentação.
+- 🚀 `:rocket:`: para melhorar o desempenho ou a eficiência do código.
+- 🎨 `:art:`: para melhorar a estrutura ou a aparência do código.
+- 🚧 `:construction:`: para indicar que o código está em progresso ou em desenvolvimento.
+- 📦 `:package:`: para adicionar ou atualizar dependências do projeto.
+- ♻️ `:recycle:`: para refatorar o código, melhorando sua estrutura ou legibilidade.
+- 🚨 `:rotating_light:`: para corrigir problemas de segurança no código.
+- 🌐 `:globe_with_meridians:`: para alterações relacionadas à internacionalização ou localização.
+- ⚡️ `:zap:`: para melhorar o desempenho do código.
+
 
 
 Licença

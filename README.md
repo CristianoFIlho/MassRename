@@ -18,7 +18,7 @@ Uso
 
 Para renomear arquivos, execute o seguinte comando:
 
-python renomeador.py [pasta] [tipo] [novo_nome]
+python MassRenameFiles.py [pasta] [tipo] [novo_nome]
 Onde:
 
 [pasta] é o caminho para a pasta que contém os arquivos que deseja renomear.
